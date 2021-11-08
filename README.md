@@ -96,3 +96,15 @@ Raúl Gómez Ibáñez
 
 
 ### Flowchart
+
+
+![FlowChart7](https://user-images.githubusercontent.com/91128806/140780917-9a187c8f-3db6-4448-af24-ed4a44e02d3c.png)
+
+
+
+## Temperature meter
+
+
+![TEMPERATURE SENSOR](https://user-images.githubusercontent.com/91128806/140786616-8ec2097b-ece9-48e0-96c6-76cfcab855ff.png)
+
+
