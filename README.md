@@ -12,12 +12,12 @@ Raúl Gómez Ibáñez
 
 | Push Button | PC0[A0] voltage | ADC value (calculated) | ADC value (measured) |
 | ----------- | --------------- | ---------------------- | -------------------- |
-| Right | 0 V | 0 |  |
-| Up | 0.495 V | 101 |  |
-| Down | 0.784 V | 160 |  |
-| Left | 1.01 V | 206 |  |
-| Select | 2 V | 409 |  |
-| None | 5 V | 1023 |  |
+| Right | 0 V | 0 | 0 |
+| Up | 0.495 V | 101 | 100-101 |
+| Down | 0.784 V | 160 | 159-160 |
+| Left | 1.01 V | 206 | 205-206 |
+| Select | 2 V | 409 | 408-409 |
+| None | 5 V | 1023 | 1023-1022 |
 
 ## Code 
 
